@@ -65,4 +65,6 @@ export class MusicListComponent implements OnInit {
         // this.musicList.splice(delElem, 1);
     }
 
+    //new updates
+
 }
